@@ -24,4 +24,3 @@ public class Teacher {
         this.age = age;
     }
 }
-
