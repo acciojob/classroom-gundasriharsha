@@ -5,6 +5,7 @@ import lombok.Setter;
 
 @Getter
 @Setter
+
 public class Teacher {
 
     private String name;
@@ -23,3 +24,4 @@ public class Teacher {
         this.age = age;
     }
 }
+
